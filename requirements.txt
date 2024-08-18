@@ -1,0 +1,13 @@
+langchain
+streamlit
+openai
+python-dotenv
+PyPDF2
+groq
+langchain_community
+langchain_groq
+setuptools
+
+
+# for installation of local package
+-e .

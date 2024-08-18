@@ -1,0 +1,5 @@
+question_number,question,correct_answer,option_a,option_b,option_c,option_d
+1,What is the primary focus of data science?,b,Developing computer programs,Extracting knowledge from data,Designing databases,Building complex algorithms
+2,Which of the following is not a component of data science?,b,Statistics,Philosophy,Algorithms,Data visualization
+3,Who imagined data science as a 'fourth paradigm' of science?,a,Turing Award winner Jim Gray,Statistician Nathan Yau,Ben Fry,American Statistical Association
+4,What is the role of a data scientist?,b,Creating programming code,Combining programming code with statistical knowledge,Presenting findings to clients,Developing complex algorithms
